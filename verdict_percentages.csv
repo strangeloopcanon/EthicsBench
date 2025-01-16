@@ -1,0 +1,9 @@
+Target Model,Referee Model,NO,UNKNOWN,YES
+anthropic/claude-3-5-sonnet-20240620,anthropic/claude-3-5-sonnet-20240620,83.33333333333334,0.0,16.666666666666664
+anthropic/claude-3-5-sonnet-20240620,openai/gpt-4o,83.33333333333334,0.0,16.666666666666664
+deepseek/deepseek-chat,anthropic/claude-3-5-sonnet-20240620,66.66666666666666,0.0,33.33333333333333
+deepseek/deepseek-chat,openai/gpt-4o,66.66666666666666,0.0,33.33333333333333
+gemini/gemini-1.5-pro,anthropic/claude-3-5-sonnet-20240620,50.0,0.0,50.0
+gemini/gemini-1.5-pro,openai/gpt-4o,50.0,0.0,50.0
+openai/gpt-4o,anthropic/claude-3-5-sonnet-20240620,66.66666666666666,0.0,33.33333333333333
+openai/gpt-4o,openai/gpt-4o,83.33333333333334,16.666666666666664,0.0
